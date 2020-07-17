@@ -1,8 +1,8 @@
 # Skeleton-key-tensorflow
 
 The implementation of the model in paper "Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition"
-**Forked from https://github.com/feiyu1990/Skeleton-key**
-* Fix bugs in the original code
+
+**Forked from https://github.com/feiyu1990/Skeleton-key** (Fix bugs in the original code)
 
 Prerequisite
 The model uses tensorflow, and the preprocessing of the captions requires Stanford NLP Core and you need to download COCO dataset first.
